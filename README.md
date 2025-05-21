@@ -1,2 +1,2 @@
 # Sign-Language-Retection
-mid-level SLR
+this is a mid-level SLR. there are three files for collecting, testing and evaluating.
